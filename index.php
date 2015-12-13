@@ -107,7 +107,7 @@
             <div class="item">
                 <div class="container">
                     <div class="carousel-content">
-                        <h1>Sistem Pencarian Gambar  dengan Fitur Deteksi Objek</h1>
+                        <h1>Sistem Pencarian Gambar dengan Fitur Deteksi Objek</h1>
                        <!--  <p class="lead">Please Select One Image For Samples Query !</p> -->
                     </div>
                 </div>
